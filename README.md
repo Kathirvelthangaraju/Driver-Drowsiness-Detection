@@ -13,7 +13,7 @@ STEP 6: Then an auditory alert will played to alert the driver to regain his foc
 <b>HOW TO RUN <b><br>
 <ul>
 <li>Download the <strong>shape_predictor_68_face_landmarks.dat</strong> form <i>https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat</i> and save it in the project folder. </li>
-<li>In the <i>drowsiness_yawn.py</i> file, change the path of <i>alert.wave</i>.</li>
+<li>In the <i>drowsiness_yawn.py</i> file, change the path of <i>alert.wav</i>.</li>
 <li>Install all the requirements in the <strong>requirements.txt</strong> file.</li>
 <li>Run the <i>drowsiness_yawn.py</i> file.</li>
 </ul>
