@@ -2,6 +2,6 @@
 dlib==19.16.0
 imutils==0.5.2
 numpy==1.15.4
-opencv==4.0.0.21
+opencv==4.4.0.42
 playsound==1.2.2
 scipy==1.2.0
